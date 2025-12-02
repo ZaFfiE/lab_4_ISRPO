@@ -3,7 +3,7 @@ import math
 
 def area(r):
     '''Принимаем число r радиус круга, возвращаем дробное число, площадь круга'''
-    return math.pi * r * r
+    return math.pi * r
 
 
 def perimeter(r):
